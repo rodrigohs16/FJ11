@@ -1,0 +1,21 @@
+package br.com.caelum.contas;
+
+import br.com.caelum.javafx.api.main.SistemaBancario;
+
+public class Teste {
+	public static void main(String[] args) {
+		//OlaMundo.main(args);
+		//TelaDeContas.main(args);
+		SistemaBancario.mostraTela(true);
+		
+		//double pi = Math.PI;
+		//double pow = Math.pow(a, b);
+		//double e = Math.E;
+		//double exp = Math.exp(a);
+		
+		//Long id = 3;
+		//id.toString();
+	}
+
+}
+

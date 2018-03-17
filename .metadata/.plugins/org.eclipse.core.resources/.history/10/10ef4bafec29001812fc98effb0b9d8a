@@ -1,0 +1,24 @@
+package br.com.caelum.contas;
+
+import java.util.ArrayList;
+
+public class TestaLista {
+
+	public static void main(String[] args) {
+		ArrayList lista = new ArrayList();
+		
+		lista.add("Paulo");
+		lista.add("Guilherme");
+		lista.add("Carlos");
+		
+		System.out.println(lista);
+		System.out.println(lista.contains("Paulo"));
+		
+		lista.remove("Guilherme");
+		System.out.println(lista);
+		
+		
+
+	}
+
+}

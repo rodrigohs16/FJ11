@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Contato"/>
+<fullyQualifiedTypeName name="br.com.caelum.javafx.api.main.OlaMundo"/>
+<fullyQualifiedTypeName name="br.com.caelum.javafx.api.main.TelaDeContas"/>
+<fullyQualifiedTypeName name="br.com.caelum.javafx.api.main.SistemaBancario"/>
+<fullyQualifiedTypeName name="br.com.caelum.contas.modelo.SeguroDeVida"/>
+<fullyQualifiedTypeName name="br.com.caelum.javafx.api.util.Evento"/>
+<fullyQualifiedTypeName name="br.com.caelum.contas.modelo.ContaCorrente"/>
+<fullyQualifiedTypeName name="br.com.caelum.contas.modelo.Tributavel"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="br.com.caelum.contas.modelo.SaldoInsuficienteException"/>
+</qualifiedTypeNameHistroy>
