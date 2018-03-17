@@ -1,0 +1,22 @@
+package br.com.caelum.contas.arquivos;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+
+
+public class LeArquivo {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		InputStream is = new FileInputStream("arquivo_txt.txt"); //retorna em bytes
+		System.out.println(is.read());
+		
+		InputStreamReader isr = new InputStreamReader(is);
+		
+		System.out.println((char) isr.read());
+
+	}
+
+}

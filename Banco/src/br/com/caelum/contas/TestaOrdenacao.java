@@ -8,6 +8,8 @@ public class TestaOrdenacao {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
 		List <Integer> numero = new ArrayList<>();
 		numero.add(10);
 		numero.add(50);
@@ -16,7 +18,6 @@ public class TestaOrdenacao {
 		System.out.println(numero);
 		
 		Collections.sort(numero);
-		
 		System.out.println(numero);
 		
 		Collections.shuffle(numero);
